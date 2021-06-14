@@ -1,21 +1,20 @@
-<h1 align="center">Welcome to When did you last call? 👋</h1>
+<h1 align="center">Welcome to when did you LASTCALL? 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://www.npmjs.com/package/when did you LASTCALL?" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/when did you LASTCALL?.svg">
+  </a>
 </p>
 
-> Making with Python(Django) & GCP 
+> App helps you make better and longer relationship
 
-## Install
-
-```sh
-npm install
-```
+### 🏠 [Homepage](https://github.com/taeseo6/whenlastcall)
 
 ## Author
 
-👤 **6_TSY**
+👤 **taeseo6**
 
-* Github: [@6\_TSY](https://github.com/6\_TSY)
+* Website: https://github.com/taeseo6
+* Github: [@taeseo6](https://github.com/taeseo6)
 
 ## Show your support
 
